@@ -45,14 +45,14 @@ Key Feature of Project.
 `Note`: Please make sure Turn ON `Less secure app access` in your Google account without Email Not Send !.
 - Please Following:- `Manage your Google Account => Security => Less secure app access =>Trun ON`
 
-[comment]: <> (## Register View)
+## Register View
 
-[comment]: <> (![larave vue.js dashboard img]&#40;public/images/dashboard-image/register.gif&#41;)
+![larave vue.js Register View](public/git_image/register_login.gif)
 
-[comment]: <> (## Forgot Password View)
+## Email Verification View
 
-[comment]: <> (![larave+vue forgot_password img]&#40;public/images/dashboard-image/forgot-password.gif&#41;)
+![larave+vue Email Verification View](public/git_image/email-verify.gif)
 
-[comment]: <> (## dashboard View)
+## Forgot Password View
 
-[comment]: <> (![larave+vue dashboard img]&#40;public/images/dashboard-image/dashboard.png&#41;)
+![larave+vue Forgot Password View](public/git_image/forgot-password.gif)
